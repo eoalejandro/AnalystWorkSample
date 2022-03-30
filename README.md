@@ -9,3 +9,7 @@ This code explores housing data found in the housing_data.csv file.  First, we l
 Reference: https://towardsdatascience.com/how-to-write-an-awesome-readme-68bf4be91f8b
 
 Data source:  Toy dataset from Code Academy 
+
+Future research: Consider a clinet like Airbnb, and a business problem for them using public housing data in the [Seattle area](http://insideairbnb.com/get-the-data.html).
+
+Try to think about the company you’re applying to and how they might interact with data. Look at the chart to see some examples of how companies use data.
